@@ -1,6 +1,9 @@
 import turtle
 
 turtle.showturtle()
+turtle.color('red')
+turtle.pensize(10)
+turtle.speed(2)
 turtle.penup()
 turtle.goto(-100, 0)
 turtle.pendown()

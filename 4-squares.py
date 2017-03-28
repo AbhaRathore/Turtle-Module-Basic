@@ -2,6 +2,8 @@ import turtle
 
 turtle.showturtle()
 turtle.penup()
+turtle.speed(2)
+turtle.pensize(3)
 turtle.goto(-100, 100)
 turtle.pendown()
 turtle.forward(200)

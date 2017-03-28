@@ -1,6 +1,8 @@
 import turtle
 
 turtle.showturtle()
+turtle.pensize(2)
+turtle.speed(8)
 turtle.color("red")
 turtle.circle(25)
 turtle.circle(50)
